@@ -3,7 +3,7 @@ Spiking on Parallax – pt. 2
 
 Just `git clone` it.
 
-Find it here: http://danbender.github.io/parallax-transitions
+Find it here: http://danbender.github.io/parallax_transitions/
 
 
 ### transitions.html
